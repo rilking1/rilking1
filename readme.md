@@ -34,9 +34,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1)](https://github.com/anuraghazra/github-readme-stats&card_width=300px)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1)](https://github.com/anuraghazra/github-readme-stats&card_width=300px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=300px&hide_border&locale=uk-ua)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=300px&hide_border&locale=uk-ua)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=1012px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=1012px&hide_border&locale=uk-ua)
+
 
 <div>
 
