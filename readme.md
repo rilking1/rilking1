@@ -8,19 +8,19 @@
 
 ### 🛠 &nbsp;Programming Languages
 
-###
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
-  ### 🛠 &nbsp;Frontend Development
+### 🛠 &nbsp;Frontend Development
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+
 
 ### 🛠 &nbsp;Database
 
@@ -35,17 +35,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p>
 <a href="https://github.com/rilking1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rilking1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  </p>
-  <p align="right">
   <a href="https://github.com/rilking1">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rilking1&layout=compact&langs_count=8&theme=algolia"/>
 <img alt="Working!!!" src="assets/rage_animated_sticker.gif"/>
 </a>
-  </p>
+</p>
 
 
 
