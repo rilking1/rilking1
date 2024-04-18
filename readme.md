@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p>
+<p display = "flex">
 <a href="https://github.com/rilking1">
   <img height="auto" width ="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rilking1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/rilking1">
