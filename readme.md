@@ -40,7 +40,7 @@
 
   </a>
 </p>
-<p align="right">
+<p align="right" display= "table-cell">
     <img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rilking1&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 </div>
