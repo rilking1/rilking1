@@ -35,7 +35,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div>
 <p align="center" card_width = "800px">
-    <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rilking1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" card_width = "800px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rilking1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center">
     <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rilking1&layout=compact&langs_count=8&theme=algolia"/>
