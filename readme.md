@@ -1,6 +1,5 @@
-<p align="center">
- <img width="auto" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
+<h1><img src="assets/emojibest_com_AnimatedSticker (3).gif" width="30"/> Hey! Nice to see you.</h1>
 
 ### 🛠 &nbsp;Framework
 
@@ -32,29 +31,16 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="assets/pngegg (1).png" alt="asp.net core" width="40" height="40"/> </a> 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp; GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1)](https://github.com/anuraghazra/github-readme-stats&card_width=300px)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1)](https://github.com/anuraghazra/github-readme-stats&card_width=300px)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=300px&hide_border)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=300px&hide_border)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=1012px&hide_border=true&locale=uk-ua )
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilking1&show_icons=true&bg_color=00000000&card_width=1012px&hide_border&locale=uk-ua)
-
-
-<div>
-
-<p align="center" card_width = "800px">
-    <img height="180em" card_width = "800px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rilking1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-<p align="center">
-    <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rilking1&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-</div>
-
-<img alt="Working!!!" width="100%" src="assets/rage_animated_sticker.gif"/>
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilking1&layout=compact&card_width=1012px)
 
 ### 🤝🏻 &nbsp;Connect with Me:
-Ніде =)
+<a>
+ <img width="80%" src="assets/github-snake.svg" alt="snake"/>
+ <img alt="Working!!!" height="100" src="assets/rage_animated_sticker.gif"/>
+</a>
+
+
