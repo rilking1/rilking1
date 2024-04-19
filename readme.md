@@ -39,7 +39,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me:
 <a>
- <img width="80%" src="assets/github-snake.svg" alt="snake"/>
+ <img width="70%" src="assets/github-snake.svg" alt="snake"/>
  <img alt="Working!!!" height="100" src="assets/rage_animated_sticker.gif"/>
 </a>
 
