@@ -37,10 +37,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilking1&layout=compact&card_width=1012px)
 
-### 🤝🏻 &nbsp;Connect with Me:
-<a>
- <img width="70%" src="assets/github-snake.svg" alt="snake"/>
- <img alt="Working!!!" height="100" src="assets/rage_animated_sticker.gif"/>
-</a>
+ <img width="100%" src="assets/github-snake.svg" alt="snake"/>
 
+### 🤝🏻 &nbsp;Connect with Me: 
+  <a href="https://t.me/KaijiAkagix" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 
