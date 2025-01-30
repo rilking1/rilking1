@@ -34,6 +34,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
   <img src="https://img.icons8.com/color/512/tailwind_css.png" alt="tailwindcss" width="40" height="40"/>  
 </a>
+<hr>
 
 ### 🗄️ &nbsp;Backend
 
@@ -58,6 +59,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>  
 </a>
+<hr>
 
 ### 🎭 &nbsp;Backend and Frontend
 
@@ -67,6 +69,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
+<hr>
 
 ### 🔧 &nbsp;Other Tools
 
@@ -92,6 +95,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilking1&layout=compact&card_width=1012px) -->
 
  <img width="100%" src="assets/github-snake.svg" alt="snake"/>
+<hr>
 
 ### 🤝🏻 &nbsp;Connect with Me:
 
